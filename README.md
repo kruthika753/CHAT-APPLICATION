@@ -102,4 +102,8 @@ Start chatting!
 
 **Output**:
 
+<img width="1920" height="961" alt="Image" src="https://github.com/user-attachments/assets/22a73fbf-205c-4c30-9155-51169763aeca" />
 
+<img width="1920" height="922" alt="Image" src="https://github.com/user-attachments/assets/308b6b57-7d40-4d8a-a1f1-86086689fa98" />
+
+<img width="1920" height="928" alt="Image" src="https://github.com/user-attachments/assets/f7ee88f0-630c-4d62-bda1-f2c8da45877f" />
